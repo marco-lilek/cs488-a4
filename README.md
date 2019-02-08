@@ -1,0 +1,1 @@
+Ray tracer assignment for intro to graphics course taught at the university of waterloo. Definitely a mess, just archiving. Cool pictures can be found in `Assets/` though. Maybe one day I'll clean it up.
