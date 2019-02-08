@@ -1,0 +1,124 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A4_Render	A4.cpp	/^void A4_Render($/;"	f
+FIRE_OFFSET	A4.cpp	/^static const double FIRE_OFFSET = 0.0000003;$/;"	v	file:
+GRLUA_DEBUG	scene_lua.cpp	65;"	d	file:
+GRLUA_DEBUG	scene_lua.cpp	68;"	d	file:
+GRLUA_DEBUG_CALL	scene_lua.cpp	66;"	d	file:
+GRLUA_DEBUG_CALL	scene_lua.cpp	69;"	d	file:
+GeometryNode	GeometryNode.cpp	/^GeometryNode::GeometryNode($/;"	f	class:GeometryNode
+Image	Image.cpp	/^Image::Image($/;"	f	class:Image
+Image	Image.cpp	/^Image::Image()$/;"	f	class:Image
+Image	Image.cpp	/^Image::Image(const Image & other)$/;"	f	class:Image
+JointNode	JointNode.cpp	/^JointNode::JointNode(const std::string& name)$/;"	f	class:JointNode
+Light	Light.cpp	/^Light::Light()$/;"	f	class:Light
+MAXITER_MANDELBROT	A4.cpp	/^static const size_t MAXITER_MANDELBROT = 1000;$/;"	v	file:
+Material	Material.cpp	/^Material::Material()$/;"	f	class:Material
+Mesh	Mesh.cpp	/^Mesh::Mesh( const std::string& fname )$/;"	f	class:Mesh
+MeshMap	scene_lua.cpp	/^typedef std::map<std::string,Mesh*> MeshMap;$/;"	t	file:
+PhongMaterial	PhongMaterial.cpp	/^PhongMaterial::PhongMaterial($/;"	f	class:PhongMaterial
+PolishRoot	polyroots.cpp	/^static double PolishRoot( $/;"	f	file:
+SIGN	polyroots.cpp	83;"	d	file:
+SQRT3	polyroots.cpp	80;"	d	file:
+SSREG	A4.cpp	/^static const size_t SSREG = 4;$/;"	v	file:
+SceneNode	SceneNode.cpp	/^SceneNode::SceneNode(const SceneNode & other)$/;"	f	class:SceneNode
+SceneNode	SceneNode.cpp	/^SceneNode::SceneNode(const std::string& name)$/;"	f	class:SceneNode
+add_child	SceneNode.cpp	/^void SceneNode::add_child(SceneNode* child) {$/;"	f	class:SceneNode
+buildRay	A4.cpp	/^void buildRay(const glm::mat4 stw, const glm::vec3 &lookFrom, const glm::vec2 &sP, Ray &ray) {$/;"	f
+buildScreenToWorld	A4.cpp	/^void buildScreenToWorld($/;"	f
+castShadowRay	A4.cpp	/^bool castShadowRay(const SceneNode *root, const Ray &r, double &t) {$/;"	f
+cbrt	polyroots.cpp	/^static double cbrt( double t )$/;"	f	file:
+clamp	Image.cpp	/^static double clamp(double x, double a, double b)$/;"	f	file:
+cosk_lookup	polyroots.cpp	/^static double cosk_lookup(double t)$/;"	f	file:
+cubicRoots	polyroots.cpp	/^size_t cubicRoots( double p, double q, double r, double roots[3] )$/;"	f
+data	Image.cpp	/^const double * Image::data() const$/;"	f	class:Image
+data	Image.cpp	/^double * Image::data()$/;"	f	class:Image
+equals	Helper.cpp	/^bool equals(double a, double b) {$/;"	f
+fabs	polyroots.cpp	77;"	d	file:
+ge	Helper.cpp	/^bool ge(double a, double b) {$/;"	f
+generateBoundingVolume	Mesh.cpp	/^void Mesh::generateBoundingVolume() {$/;"	f	class:Mesh
+get	PhongMaterial.cpp	/^void PhongMaterial::get(Color &kd, Color &ks, double &shininess) {$/;"	f	class:PhongMaterial
+getBackgroundAt	A4.cpp	/^Color getBackgroundAt(const size_t x, const size_t y, const size_t w, const size_t h) {$/;"	f
+get_inverse	SceneNode.cpp	/^const glm::mat4& SceneNode::get_inverse() const {$/;"	f	class:SceneNode
+get_transform	SceneNode.cpp	/^const glm::mat4& SceneNode::get_transform() const {$/;"	f	class:SceneNode
+get_tuple	scene_lua.cpp	/^void get_tuple(lua_State* L, int arg, T* data, int n)$/;"	f
+gr_cube_cmd	scene_lua.cpp	/^int gr_cube_cmd(lua_State* L)$/;"	f
+gr_joint_cmd	scene_lua.cpp	/^int gr_joint_cmd(lua_State* L)$/;"	f
+gr_light_cmd	scene_lua.cpp	/^int gr_light_cmd(lua_State* L)$/;"	f
+gr_light_ud	scene_lua.cpp	/^struct gr_light_ud {$/;"	s	file:
+gr_material_cmd	scene_lua.cpp	/^int gr_material_cmd(lua_State* L)$/;"	f
+gr_material_ud	scene_lua.cpp	/^struct gr_material_ud {$/;"	s	file:
+gr_mesh_cmd	scene_lua.cpp	/^int gr_mesh_cmd(lua_State* L)$/;"	f
+gr_nh_box_cmd	scene_lua.cpp	/^int gr_nh_box_cmd(lua_State* L)$/;"	f
+gr_nh_sphere_cmd	scene_lua.cpp	/^int gr_nh_sphere_cmd(lua_State* L)$/;"	f
+gr_node_add_child_cmd	scene_lua.cpp	/^int gr_node_add_child_cmd(lua_State* L)$/;"	f
+gr_node_cmd	scene_lua.cpp	/^int gr_node_cmd(lua_State* L)$/;"	f
+gr_node_gc_cmd	scene_lua.cpp	/^int gr_node_gc_cmd(lua_State* L)$/;"	f
+gr_node_rotate_cmd	scene_lua.cpp	/^int gr_node_rotate_cmd(lua_State* L)$/;"	f
+gr_node_scale_cmd	scene_lua.cpp	/^int gr_node_scale_cmd(lua_State* L)$/;"	f
+gr_node_set_material_cmd	scene_lua.cpp	/^int gr_node_set_material_cmd(lua_State* L)$/;"	f
+gr_node_translate_cmd	scene_lua.cpp	/^int gr_node_translate_cmd(lua_State* L)$/;"	f
+gr_node_ud	scene_lua.cpp	/^struct gr_node_ud {$/;"	s	file:
+gr_render_cmd	scene_lua.cpp	/^int gr_render_cmd(lua_State* L)$/;"	f
+gr_sphere_cmd	scene_lua.cpp	/^int gr_sphere_cmd(lua_State* L)$/;"	f
+grlib_functions	scene_lua.cpp	/^static const luaL_Reg grlib_functions[] = {$/;"	v	file:
+grlib_node_methods	scene_lua.cpp	/^static const luaL_Reg grlib_node_methods[] = {$/;"	v	file:
+height	Image.cpp	/^uint Image::height() const$/;"	f	class:Image
+hit	A4.cpp	/^bool hit(const SceneNode * root, $/;"	f
+inb	Helper.cpp	/^bool inb(double a, double b, double c) {$/;"	f
+intersect	GeometryNode.cpp	/^bool GeometryNode::intersect(const Ray &r, double &t, Vector &N, Color &kd, Color &ks, double &shininess) {$/;"	f	class:GeometryNode
+intersect	Mesh.cpp	/^bool Mesh::intersect(const Ray &r, double &t, Vector &N) { $/;"	f	class:Mesh
+intersect	Primitive.cpp	/^bool Cube::intersect(const Ray &r, double &t, Vector &N) { $/;"	f	class:Cube
+intersect	Primitive.cpp	/^bool NonhierBox::intersect(const Ray &r, double &t, Vector &N) { $/;"	f	class:NonhierBox
+intersect	Primitive.cpp	/^bool NonhierSphere::intersect(const Ray &r, double &t, Vector &N) {$/;"	f	class:NonhierSphere
+intersect	Primitive.cpp	/^bool Sphere::intersect(const Ray &r, double &t, Vector &N) { $/;"	f	class:Sphere
+intersectBoundingVolume	Mesh.cpp	/^bool Mesh::intersectBoundingVolume(const Ray &r, double &t, Vector &N) {$/;"	f	class:Mesh
+intersectBox	Primitive.cpp	/^static bool intersectBox(const Ray &r, double &t, Vector &N, const double s) {$/;"	f	file:
+intersectSphere	Primitive.cpp	/^bool intersectSphere(const Ray &r, double &t, Vector &N, const double radius, bool isBoundingVol) {$/;"	f
+light	scene_lua.cpp	/^  Light* light;$/;"	m	struct:gr_light_ud	file:
+m_colorComponents	Image.cpp	/^const uint Image::m_colorComponents = 3; \/\/ Red, blue, green$/;"	m	class:Image	file:
+main	Main.cpp	/^int main(int argc, char** argv)$/;"	f
+material	scene_lua.cpp	/^  Material* material;$/;"	m	struct:gr_material_ud	file:
+mesh_map	scene_lua.cpp	/^static MeshMap mesh_map;$/;"	v	file:
+node	scene_lua.cpp	/^  SceneNode* node;$/;"	m	struct:gr_node_ud	file:
+nodeInstanceCount	SceneNode.cpp	/^unsigned int SceneNode::nodeInstanceCount = 0;$/;"	m	class:SceneNode	file:
+operator ()	Image.cpp	/^double & Image::operator()(uint x, uint y, uint i)$/;"	f	class:Image
+operator ()	Image.cpp	/^double Image::operator()(uint x, uint y, uint i) const$/;"	f	class:Image
+operator <<	Light.cpp	/^std::ostream& operator<<(std::ostream& out, const Light& l)$/;"	f
+operator <<	Mesh.cpp	/^std::ostream& operator<<(std::ostream& out, const Mesh& mesh)$/;"	f
+operator <<	Ray.cpp	/^std::ostream &operator<<(std::ostream &os, Ray const &ray) {$/;"	f
+operator <<	SceneNode.cpp	/^std::ostream & operator << (std::ostream & os, const SceneNode & node) {$/;"	f
+operator =	Image.cpp	/^Image & Image::operator=(const Image& other)$/;"	f	class:Image
+palette	A4.cpp	/^static std::vector<Color> palette;$/;"	v	file:
+phongLight	A4.cpp	/^Color phongLight($/;"	f
+quadraticRoots	polyroots.cpp	/^size_t quadraticRoots( double A, double B, double C, double roots[2] )$/;"	f
+quarticRoots	polyroots.cpp	/^size_t quarticRoots( $/;"	f
+rayColor	A4.cpp	/^bool rayColor($/;"	f
+remove_child	SceneNode.cpp	/^void SceneNode::remove_child(SceneNode* child) {$/;"	f	class:SceneNode
+rotate	SceneNode.cpp	/^void SceneNode::rotate(char axis, float angle) {$/;"	f	class:SceneNode
+run_lua	scene_lua.cpp	/^bool run_lua(const std::string& filename)$/;"	f
+savePng	Image.cpp	/^bool Image::savePng(const std::string & filename) const$/;"	f	class:Image
+scale	SceneNode.cpp	/^void SceneNode::scale(const glm::vec3 & amount) {$/;"	f	class:SceneNode
+setMaterial	GeometryNode.cpp	/^void GeometryNode::setMaterial( Material *mat )$/;"	f	class:GeometryNode
+set_joint_x	JointNode.cpp	/^void JointNode::set_joint_x(double min, double init, double max) {$/;"	f	class:JointNode
+set_joint_y	JointNode.cpp	/^void JointNode::set_joint_y(double min, double init, double max) {$/;"	f	class:JointNode
+set_transform	SceneNode.cpp	/^void SceneNode::set_transform(const glm::mat4& m) {$/;"	f	class:SceneNode
+setupBG	A4.cpp	/^void setupBG() {$/;"	f
+sink_lookup	polyroots.cpp	/^static double sink_lookup(double t)$/;"	f	file:
+totalSceneNodes	SceneNode.cpp	/^int SceneNode::totalSceneNodes() const {$/;"	f	class:SceneNode
+translate	SceneNode.cpp	/^void SceneNode::translate(const glm::vec3& amount) {$/;"	f	class:SceneNode
+width	Image.cpp	/^uint Image::width() const$/;"	f	class:Image
+~Cube	Primitive.cpp	/^Cube::~Cube()$/;"	f	class:Cube
+~Image	Image.cpp	/^Image::~Image()$/;"	f	class:Image
+~JointNode	JointNode.cpp	/^JointNode::~JointNode() {$/;"	f	class:JointNode
+~Material	Material.cpp	/^Material::~Material()$/;"	f	class:Material
+~NonhierBox	Primitive.cpp	/^NonhierBox::~NonhierBox()$/;"	f	class:NonhierBox
+~NonhierSphere	Primitive.cpp	/^NonhierSphere::~NonhierSphere()$/;"	f	class:NonhierSphere
+~PhongMaterial	PhongMaterial.cpp	/^PhongMaterial::~PhongMaterial()$/;"	f	class:PhongMaterial
+~Primitive	Primitive.cpp	/^Primitive::~Primitive()$/;"	f	class:Primitive
+~SceneNode	SceneNode.cpp	/^SceneNode::~SceneNode() {$/;"	f	class:SceneNode
+~Sphere	Primitive.cpp	/^Sphere::~Sphere()$/;"	f	class:Sphere

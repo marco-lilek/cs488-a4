@@ -1,0 +1,91 @@
+[
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/A4.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/A4.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/A4.d -c /home/mlilek/5b/cs488/A4/A4.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/GeometryNode.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/GeometryNode.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/GeometryNode.d -c /home/mlilek/5b/cs488/A4/GeometryNode.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/Helper.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Helper.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Helper.d -c /home/mlilek/5b/cs488/A4/Helper.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/Image.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Image.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Image.d -c /home/mlilek/5b/cs488/A4/Image.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/JointNode.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/JointNode.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/JointNode.d -c /home/mlilek/5b/cs488/A4/JointNode.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/Light.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Light.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Light.d -c /home/mlilek/5b/cs488/A4/Light.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/Main.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Main.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Main.d -c /home/mlilek/5b/cs488/A4/Main.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/Material.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Material.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Material.d -c /home/mlilek/5b/cs488/A4/Material.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/Mesh.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Mesh.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Mesh.d -c /home/mlilek/5b/cs488/A4/Mesh.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/PhongMaterial.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/PhongMaterial.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/PhongMaterial.d -c /home/mlilek/5b/cs488/A4/PhongMaterial.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/Primitive.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Primitive.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Primitive.d -c /home/mlilek/5b/cs488/A4/Primitive.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/Ray.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Ray.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/Ray.d -c /home/mlilek/5b/cs488/A4/Ray.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/SceneNode.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/SceneNode.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/SceneNode.d -c /home/mlilek/5b/cs488/A4/SceneNode.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/polyroots.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/polyroots.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/polyroots.d -c /home/mlilek/5b/cs488/A4/polyroots.cpp"
+          }
+,
+          {
+            "directory": "/home/mlilek/5b/cs488/A4/build",
+            "file": "/home/mlilek/5b/cs488/A4/scene_lua.cpp",
+            "command": "cc -MMD -MP -DDRAW_BOUNDING_VOL -I/home/mlilek/5b/cs488/shared -I/home/mlilek/5b/cs488/shared/include -I/home/mlilek/5b/cs488/shared/gl3w -I/home/mlilek/5b/cs488/shared/imgui -g -std=c++11 -Wall -Wno-reorder -o /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/scene_lua.o -MF /home/mlilek/5b/cs488/A4/build/DrawBoundingVol/scene_lua.d -c /home/mlilek/5b/cs488/A4/scene_lua.cpp"
+          }
+]
